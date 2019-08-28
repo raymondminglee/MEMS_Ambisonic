@@ -4,7 +4,7 @@
 While public interest for technologies that produce and deliver immersive VR content has been growing, the price point for these tools has remained relatively high.   
 
 We present a low-cost, high-quality first-order ambisonics (FOA) microphone based on low-noise MEMS systems. We desinged and fabricated a 3D printed housing and using MEMS microphone in each of the 4 capsule to replicate such field microphone.   
-<br><br>
+
 To facilitate high resolution directivity response measurements, a low-cost, automatic rotating microphone mount using an Arduino was also designed.  
 The automatic control of this platform was integrated into an in-house acoustic measurement library built in MATLAB, allowing the user to generate polar plots at resolutions down to 1.8°.  
 Plor plot and frequency response of the proposed microphone was compared with current Sennheiser Ambeo VR mic available on the marcket. Subjective evaluations on recording using two different microphones were also conducted.  
@@ -53,5 +53,6 @@ Results showed that subjects tended to perceive the MEMS recording as “thinner
 
 # AES Paper
 ---
-We submitted our paper to the Audio Engineer Society (AES) 201 International Convention. The ful paper is linked below.
--[AES Paper](https://github.com/raymondminglee/Acoustic-Consulting/blob/master/doc/NEST%2Bm_summary.pdf)
+We submitted our paper to the Audio Engineer Society (AES) 201 International Convention. The ful paper is linked below.  
+-[AES E-Library](http://www.aes.org/e-lib/browse.cfm?elib=19254)
+-[ReasearchGate](https://www.researchgate.net/publication/320188555_A_Low-Cost_High-Quality_MEMS_Ambisonic_Microphone)
