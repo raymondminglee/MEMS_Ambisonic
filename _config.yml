@@ -1,9 +1,7 @@
-logo: ./pic/logo.jpg
+logo: ./pic/logo.png
 description: >
   This is a collaborative project between The Cooper Union Acoustic and vIBRATION laboratory and NYU Steinhardt MARL.
   This project presents a low-cost, high-quality first-order ambisonics (FOA) microphone based on low-noise MEMS systems.
-  To facilitate high resolution directivity response measurements, a low-cost, automatic rotating microphone mount using an Arduino was also designed. 
-  The automatic control of this platform was integrated into an in-house acoustic measurement library built in MATLAB, allowing the user to generate polar plots at resolutions down to 1.8°.
   <br><br>
 
   <a href='https://raymondminglee.github.io/'>Back to homepage</a>
